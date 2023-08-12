@@ -1,6 +1,6 @@
 # Agência Criativa - Projeto de Estudos 🚀
 
-![Logo da Agência Criativa](logo.png)
+
 
 Bem-vindo ao repositório da Agência Criativa! Aqui, mergulhamos de cabeça em um emocionante projeto de estudos que nos levou a criar um site de agência fictícia. Utilizamos uma combinação mágica de HTML, CSS, JavaScript e Bootstrap para dar vida a essa ideia.
 
