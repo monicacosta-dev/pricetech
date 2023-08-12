@@ -1,6 +1,6 @@
 # Agência Criativa - Projeto de Estudos 🚀
 
-
+Site: [monicacosta-dev.github.io/pricetech/](https://monicacosta-dev.github.io/pricetech/) 💻
 
 Bem-vindo ao repositório da Agência Criativa! Aqui, mergulhamos de cabeça em um emocionante projeto de estudos que nos levou a criar um site de agência fictícia. Utilizamos uma combinação mágica de HTML, CSS, JavaScript e Bootstrap para dar vida a essa ideia.
 
@@ -45,4 +45,5 @@ A jornada continua! Fique à vontade para explorar nossos encantamentos no códi
 
 **Obrigado por visitar o repositório da Agência Criativa!** Se tiver algum feitiço de feedback ou sugestão, compartilhe conosco.
 
-*Feitiços Digitais: Seu Nome* ✨
+*Feitiços Digitais: Mônica Costa* ✨
+
