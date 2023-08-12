@@ -47,5 +47,5 @@ A jornada continua! Fique à vontade para explorar nossos encantamentos no códi
 
 *Feitiços Digitais: Mônica Costa* ✨
 
-Dicas: https://www.youtube.com/@MatheusBattisti
+Dicas:  Matheus Battisti - Hora de Codar -   https://www.youtube.com/@MatheusBattisti
 
