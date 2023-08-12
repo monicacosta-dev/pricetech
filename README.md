@@ -1,4 +1,4 @@
-# Agência Criativa - Projeto de Estudos 🚀
+# PriceTech Agency - Projeto de Estudos 🚀
 
 Site: [monicacosta-dev.github.io/pricetech/](https://monicacosta-dev.github.io/pricetech/) 💻
 
@@ -46,4 +46,6 @@ A jornada continua! Fique à vontade para explorar nossos encantamentos no códi
 **Obrigado por visitar o repositório da Agência Criativa!** Se tiver algum feitiço de feedback ou sugestão, compartilhe conosco.
 
 *Feitiços Digitais: Mônica Costa* ✨
+
+Dicas: https://www.youtube.com/@MatheusBattisti
 
